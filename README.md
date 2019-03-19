@@ -1,6 +1,6 @@
 # Wendys-Case-Study
 
-# Background
+# Summary
 The Wendy's Company (NASDAQ: WEN) is the world's third largest quick-service hamburger restaurant chain. The Wendy's system includes more than 6,500 restaurants in 29 countries and U.S. territories 
 
 Wendy’s vision statement is “To be the quality leader in everything we do.” 
